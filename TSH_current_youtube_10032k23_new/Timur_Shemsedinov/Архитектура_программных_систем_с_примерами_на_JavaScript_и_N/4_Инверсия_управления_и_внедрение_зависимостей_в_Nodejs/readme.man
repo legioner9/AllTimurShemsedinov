@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Архитектура программных систем с примерами на JavaScript и Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQYGZLuEc92Sp0uO2fhoSslz)
+### [Инверсия управления и внедрение зависимостей в Node.js](https://www.youtube.com/watch?v=Fz86Fdjz-LM&list=PLHhi8ymDMrQYGZLuEc92Sp0uO2fhoSslz&index=4)

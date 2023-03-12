@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Metarhia](https://www.youtube.com/playlist?list=PLHhi8ymDMrQY8settDxzdTGnnb1GZ_oQC)
+### [Node.js Scaling in Highload - Timur Shemsedinov](https://www.youtube.com/watch?v=yDdiPoaT9vg&list=PLHhi8ymDMrQY8settDxzdTGnnb1GZ_oQC&index=34)

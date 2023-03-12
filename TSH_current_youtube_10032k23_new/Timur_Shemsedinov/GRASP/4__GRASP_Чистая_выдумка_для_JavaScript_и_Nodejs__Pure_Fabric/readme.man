@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [GRASP](https://www.youtube.com/playlist?list=PLHhi8ymDMrQby8kXxsz2-J6-lsv0ilEg2)
+### [💻 GRASP: Чистая выдумка для JavaScript и Node.js - Pure Fabrication](https://www.youtube.com/watch?v=CV577a0RHBM&list=PLHhi8ymDMrQby8kXxsz2-J6-lsv0ilEg2&index=4)

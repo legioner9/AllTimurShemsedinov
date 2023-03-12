@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Практические задачи Node.js и JavaScript](https://www.youtube.com/playlist?list=PLHhi8ymDMrQYPbrauR4-ESRzjigtKMrhq)
+### [💻 JavaScript - Практические задачи #3 - Open Source: lowscript, рефакторинг, оптимизация, тайпинги](https://www.youtube.com/watch?v=PZXYL_Ofx0w&list=PLHhi8ymDMrQYPbrauR4-ESRzjigtKMrhq&index=4)

@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Metarhia & Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQbvuNarh_vmWoY9BhNp9v6f)
+### [💻 Многопоточность в Metarhia (первый сервер приложений для Node.js с менеджером потоков)](https://www.youtube.com/watch?v=BLLSuCYKLNk&list=PLHhi8ymDMrQbvuNarh_vmWoY9BhNp9v6f&index=12)

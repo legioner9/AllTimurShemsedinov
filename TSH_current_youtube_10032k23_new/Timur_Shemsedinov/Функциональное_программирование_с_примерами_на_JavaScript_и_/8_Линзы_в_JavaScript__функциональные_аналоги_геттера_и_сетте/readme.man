@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Функциональное программирование с примерами на JavaScript и Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZGa7hYnwBQufg9XXoJr5LP)
+### [Линзы в JavaScript - функциональные аналоги геттера и сеттера](https://www.youtube.com/watch?v=IBF5gFU6G-o&list=PLHhi8ymDMrQZGa7hYnwBQufg9XXoJr5LP&index=8)

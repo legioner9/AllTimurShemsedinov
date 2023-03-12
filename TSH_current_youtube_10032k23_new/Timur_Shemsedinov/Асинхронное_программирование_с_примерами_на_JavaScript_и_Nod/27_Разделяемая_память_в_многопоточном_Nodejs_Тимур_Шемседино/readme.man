@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Асинхронное программирование с примерами на JavaScript и Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T)
+### [Разделяемая память в многопоточном Node.js. Тимур Шемсединов. JS Fest 2019 Spring](https://www.youtube.com/watch?v=KNsm_iIQt7U&list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T&index=27)

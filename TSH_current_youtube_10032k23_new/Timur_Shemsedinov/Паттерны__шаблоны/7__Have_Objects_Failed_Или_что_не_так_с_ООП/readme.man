@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Паттерны / шаблоны](https://www.youtube.com/playlist?list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm)
+### [🎧 Have Objects Failed? Или что не так с ООП?](https://www.youtube.com/watch?v=4yO5OS0vPSw&list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm&index=7)

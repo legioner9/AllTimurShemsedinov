@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Основы программирования с примерами на JavaScript (2 часть)](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZ5bHGEftKvqdScBhtMUGke)
+### [Тестирование: системное и интеграционное тестирование на JavaScript](https://www.youtube.com/watch?v=OuKu_6H_6gE&list=PLHhi8ymDMrQZ5bHGEftKvqdScBhtMUGke&index=23)

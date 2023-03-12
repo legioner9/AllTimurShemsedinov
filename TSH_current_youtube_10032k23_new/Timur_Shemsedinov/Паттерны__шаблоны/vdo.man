@@ -1,0 +1,7 @@
+### [Фабрики и пулы объектов в JavaScript, factorify, poolify](https://www.youtube.com/watch?v=Ax_mSvadFp8&list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm&index=1)
+### [Шаблон Singleton (синглтон) в  JavaScript](https://www.youtube.com/watch?v=qdJ5yikZnfE&list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm&index=2)
+### [Фасад - петтерн для скрытия сложности](https://www.youtube.com/watch?v=oJtBO7CystE&list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm&index=3)
+### [Адаптер (Adapter) - паттерн достижения совместимости](https://www.youtube.com/watch?v=cA65McLQrR8&list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm&index=4)
+### [Стратегия (Strategy) - выбор взаимозаменяемого поведения](https://www.youtube.com/watch?v=hO8VSVv0NqM&list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm&index=5)
+### [Паттерн Команда (Command) действие и параметры как объект](https://www.youtube.com/watch?v=vER0vYL4hM4&list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm&index=6)
+### [🎧 Have Objects Failed? Или что не так с ООП?](https://www.youtube.com/watch?v=4yO5OS0vPSw&list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm&index=7)

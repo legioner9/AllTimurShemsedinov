@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Базы данных](https://www.youtube.com/playlist?list=PLHhi8ymDMrQYiDWjKLmrDXm-NvV3-xHWt)
+### [💻 PostgreSQL: установка, настройка, консоль](https://www.youtube.com/watch?v=Fm6yLb8qCh4&list=PLHhi8ymDMrQYiDWjKLmrDXm-NvV3-xHWt&index=4)

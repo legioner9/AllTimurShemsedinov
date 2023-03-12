@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Паттерны / шаблоны](https://www.youtube.com/playlist?list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm)
+### [Адаптер (Adapter) - паттерн достижения совместимости](https://www.youtube.com/watch?v=cA65McLQrR8&list=PLHhi8ymDMrQaJFrm02DoSnmvN5P-cVykm&index=4)

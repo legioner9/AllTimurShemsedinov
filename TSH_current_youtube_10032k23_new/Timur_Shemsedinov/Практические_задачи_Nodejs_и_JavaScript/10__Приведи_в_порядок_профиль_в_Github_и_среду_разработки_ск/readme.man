@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Практические задачи Node.js и JavaScript](https://www.youtube.com/playlist?list=PLHhi8ymDMrQYPbrauR4-ESRzjigtKMrhq)
+### [💻 Приведи в порядок профиль в Github и среду разработки, сконфирурируй GIT, подписывай коммиты GPG](https://www.youtube.com/watch?v=7TII-fpm_fI&list=PLHhi8ymDMrQYPbrauR4-ESRzjigtKMrhq&index=10)

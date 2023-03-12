@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Metarhia & Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQbvuNarh_vmWoY9BhNp9v6f)
+### [💻 GRASP: Декомпозиция класса Application из библиотеки impress технологического стека Metarhia](https://www.youtube.com/watch?v=4AMVQ2-2DcM&list=PLHhi8ymDMrQbvuNarh_vmWoY9BhNp9v6f&index=7)

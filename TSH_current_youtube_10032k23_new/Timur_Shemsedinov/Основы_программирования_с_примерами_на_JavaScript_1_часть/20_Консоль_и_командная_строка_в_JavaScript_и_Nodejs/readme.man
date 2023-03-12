@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Основы программирования с примерами на JavaScript (1 часть)](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0)
+### [Консоль и командная строка в JavaScript и Node.js](https://www.youtube.com/watch?v=5aSZyKi5BmE&list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0&index=20)

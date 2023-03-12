@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Базы данных](https://www.youtube.com/playlist?list=PLHhi8ymDMrQYiDWjKLmrDXm-NvV3-xHWt)
+### [💻 Базы данных: ER, ERD, IDEF1x, сущность-связь, entity-relationship диаграммы](https://www.youtube.com/watch?v=ByWfj3e0HnE&list=PLHhi8ymDMrQYiDWjKLmrDXm-NvV3-xHWt&index=5)

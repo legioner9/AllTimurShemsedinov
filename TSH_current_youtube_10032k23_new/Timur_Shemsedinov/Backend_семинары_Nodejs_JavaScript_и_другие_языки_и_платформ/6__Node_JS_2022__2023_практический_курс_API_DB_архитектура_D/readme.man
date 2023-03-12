@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Backend семинары: Node.js, JavaScript и другие языки и платформы](https://www.youtube.com/playlist?list=PLHhi8ymDMrQahTzVRIUQLRDVFwC_PvGmw)
+### [🎧 Node JS 2022 - 2023 практический курс: API, DB, архитектура, DDD, GoF, DI, фреймворк-агностик](https://www.youtube.com/watch?v=UGGzSEfCjPU&list=PLHhi8ymDMrQahTzVRIUQLRDVFwC_PvGmw&index=6)

@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Публичное собеседование: JavaScript, Node.js, TypeScript, Java, Python, Swift, React.js, базы данных, паттерны, программирование, архитектура](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZIC0Py5pekvdH49rkXH_MJ)
+### [Техническое интервью от Chief Software Architect сообщества Metarhia](https://www.youtube.com/watch?v=_g9bjgicmDI&list=PLHhi8ymDMrQZIC0Py5pekvdH49rkXH_MJ&index=2)

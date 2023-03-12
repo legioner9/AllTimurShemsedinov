@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Антипаттерны, рефакторинг и ревью кода с примерами на JavaScript и Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQb3PVcPFAUI-ZgtAMkpq9yV)
+### [💻 Антипаттерны ООП (часть 1) c примерами на JavaScript](https://www.youtube.com/watch?v=9d5TG1VsLeU&list=PLHhi8ymDMrQb3PVcPFAUI-ZgtAMkpq9yV&index=6)

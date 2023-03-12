@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [JavaScript для начинающих 👶](https://www.youtube.com/playlist?list=PLHhi8ymDMrQaJkE8AsD1mR4aHnobVfk3A)
+### [💻 Коллекции в JavaScript: массивы и объекты - Array и Object - курс для начинающих](https://www.youtube.com/watch?v=dZJ97DMu2cA&list=PLHhi8ymDMrQaJkE8AsD1mR4aHnobVfk3A&index=8)

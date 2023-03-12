@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Базы данных](https://www.youtube.com/playlist?list=PLHhi8ymDMrQYiDWjKLmrDXm-NvV3-xHWt)
+### [💻 SQL: SELECT, math functions, aliases, limit, with, into](https://www.youtube.com/watch?v=lle4Yp58z6k&list=PLHhi8ymDMrQYiDWjKLmrDXm-NvV3-xHWt&index=6)

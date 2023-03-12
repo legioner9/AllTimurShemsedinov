@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Школа JavaScript 2018](https://www.youtube.com/playlist?list=PLHhi8ymDMrQaTMM6ybKEfdXMAX0CQ6Hvm)
+### [Архив 2018 - Часть 17: Потоки (Streams) в Node.js](https://www.youtube.com/watch?v=3ZRkNvs_SaE&list=PLHhi8ymDMrQaTMM6ybKEfdXMAX0CQ6Hvm&index=17)

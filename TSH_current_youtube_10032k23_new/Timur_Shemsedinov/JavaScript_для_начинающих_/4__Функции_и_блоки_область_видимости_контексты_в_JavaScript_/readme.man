@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [JavaScript для начинающих 👶](https://www.youtube.com/playlist?list=PLHhi8ymDMrQaJkE8AsD1mR4aHnobVfk3A)
+### [💻 Функции и блоки, область видимости, контексты в JavaScript (для начинающих)](https://www.youtube.com/watch?v=JdscRDLG9A4&list=PLHhi8ymDMrQaJkE8AsD1mR4aHnobVfk3A&index=4)

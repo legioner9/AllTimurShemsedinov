@@ -1,0 +1,6 @@
+### [🎧 Metaeducation образование и практический опыт по инженерии программного обеспечения и не только](https://www.youtube.com/watch?v=PjEuPimpXhA&list=PLHhi8ymDMrQbrWUPLqS0xYnVJw1kRbWJu&index=1)
+### [🎧 Metahealth #1 в рамках программы менторинга по JavaScript и Node.js](https://www.youtube.com/watch?v=6yxhjYiWMcs&list=PLHhi8ymDMrQbrWUPLqS0xYnVJw1kRbWJu&index=2)
+### [💻 Metahealth #2 по программе менторинга по JavaScript и Node.js: наставники, ТЗ, архитектура, модули](https://www.youtube.com/watch?v=K8dsuRlWsE8&list=PLHhi8ymDMrQbrWUPLqS0xYnVJw1kRbWJu&index=3)
+### [💻 Metahealth #3 Предметная область, библиотека контролов для  UI](https://www.youtube.com/watch?v=2rgBWbFW30k&list=PLHhi8ymDMrQbrWUPLqS0xYnVJw1kRbWJu&index=4)
+### [Hacktoberfest 2021: лайвкодинг и ревью кода, Node.js worker_threads и thread pool для Metarhia](https://www.youtube.com/watch?v=qipIRQptP_4&list=PLHhi8ymDMrQbrWUPLqS0xYnVJw1kRbWJu&index=5)
+### [💻 Metarhia для контрибьюторов #1 (2021-10-16)](https://www.youtube.com/watch?v=u_mayI9dJCM&list=PLHhi8ymDMrQbrWUPLqS0xYnVJw1kRbWJu&index=6)

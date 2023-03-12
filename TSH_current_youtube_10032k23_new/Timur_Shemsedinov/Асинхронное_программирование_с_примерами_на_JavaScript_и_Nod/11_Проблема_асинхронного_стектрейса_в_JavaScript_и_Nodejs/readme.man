@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Асинхронное программирование с примерами на JavaScript и Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T)
+### [Проблема асинхронного стектрейса в JavaScript и Node.js](https://www.youtube.com/watch?v=pfiHTx3j87Y&list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T&index=11)

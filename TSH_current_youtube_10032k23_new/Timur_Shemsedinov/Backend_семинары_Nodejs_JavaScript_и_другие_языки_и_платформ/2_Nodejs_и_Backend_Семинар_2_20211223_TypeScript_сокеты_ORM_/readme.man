@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Backend семинары: Node.js, JavaScript и другие языки и платформы](https://www.youtube.com/playlist?list=PLHhi8ymDMrQahTzVRIUQLRDVFwC_PvGmw)
+### [Node.js и Backend Семинар #2 (2021-12-23): TypeScript, сокеты, ORM, SQL, схемы,](https://www.youtube.com/watch?v=85lOhAtj4Us&list=PLHhi8ymDMrQahTzVRIUQLRDVFwC_PvGmw&index=2)

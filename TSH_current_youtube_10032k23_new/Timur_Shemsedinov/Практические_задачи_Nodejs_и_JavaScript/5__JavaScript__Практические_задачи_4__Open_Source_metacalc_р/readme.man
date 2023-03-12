@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Практические задачи Node.js и JavaScript](https://www.youtube.com/playlist?list=PLHhi8ymDMrQYPbrauR4-ESRzjigtKMrhq)
+### [💻 JavaScript - Практические задачи #4 - Open Source: metacalc, рефакторинг, электронные таблицы](https://www.youtube.com/watch?v=-nl3ysFDHIQ&list=PLHhi8ymDMrQYPbrauR4-ESRzjigtKMrhq&index=5)

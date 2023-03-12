@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Асинхронное программирование с примерами на JavaScript и Node.js](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T)
+### [08. Тимур Шемсединов - Асинхронное программирование - 2017.08.28](https://www.youtube.com/watch?v=Ws_vg8BdBd4&list=PLHhi8ymDMrQZ0MpTsmi54OkjTbo0cjU1T&index=25)

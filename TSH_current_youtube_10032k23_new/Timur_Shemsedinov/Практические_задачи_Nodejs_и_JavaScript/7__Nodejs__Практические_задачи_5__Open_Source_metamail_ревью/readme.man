@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Практические задачи Node.js и JavaScript](https://www.youtube.com/playlist?list=PLHhi8ymDMrQYPbrauR4-ESRzjigtKMrhq)
+### [💻 Node.js - Практические задачи #5 - Open Source: metamail, ревью, smtp, почта, pop3, imap](https://www.youtube.com/watch?v=aCEyNOArKjk&list=PLHhi8ymDMrQYPbrauR4-ESRzjigtKMrhq&index=7)

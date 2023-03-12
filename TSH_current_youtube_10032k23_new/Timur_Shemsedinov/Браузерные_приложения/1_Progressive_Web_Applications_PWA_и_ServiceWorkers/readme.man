@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Браузерные приложения](https://www.youtube.com/playlist?list=PLHhi8ymDMrQaI1L1jB0-3FDEOaaCJchZP)
+### [Progressive Web Applications PWA и ServiceWorkers](https://www.youtube.com/watch?v=s7AIwZMTVPs&list=PLHhi8ymDMrQaI1L1jB0-3FDEOaaCJchZP&index=1)

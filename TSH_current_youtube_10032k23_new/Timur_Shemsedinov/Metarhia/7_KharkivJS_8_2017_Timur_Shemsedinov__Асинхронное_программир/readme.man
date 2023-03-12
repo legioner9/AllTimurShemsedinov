@@ -1,0 +1,3 @@
+# [Timur Shemsedinov](https://www.youtube.com/c/TimurShemsedinov/playlists?view=1&sort=dd&shelf_id=0)
+## [Metarhia](https://www.youtube.com/playlist?list=PLHhi8ymDMrQY8settDxzdTGnnb1GZ_oQC)
+### [KharkivJS #8 2017 Timur Shemsedinov - Асинхронное программирование на JS и Node.js](https://www.youtube.com/watch?v=VdRhAXnfrd0&list=PLHhi8ymDMrQY8settDxzdTGnnb1GZ_oQC&index=7)
